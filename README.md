@@ -27,7 +27,8 @@
 ### 2024年10月23日
 
 - 还原元素`section0`为原版。主屏幕模块1样式还原，显示主屏幕模块1左右翻页按钮元素，按钮元素样式不变
-  以下为示例图
+
+以下为示例图
 
 <img src="https://github.com/user-attachments/assets/94f1e31e-469a-4ce4-b857-b62af3fb6856">
 <img src="https://github.com/user-attachments/assets/90539e98-dcd4-48b9-ac08-f545534746b5">
